@@ -1,0 +1,167 @@
+# Property Specifications
+
+## Commercial Properties
+### Inoxe Garden - Affordable Commercial Shops (11ft x 10ft)
+- **Description**: Affordable commercial shops- size 11ftx10ft
+- **Price**: ₹1,300,000
+- **Area**: 110 sq.ft
+- **Floor**: 1
+- **Construction Year**: 2025
+- **Location**: Bhopal, Madhya Pradesh, India, Pincode: 462041
+- **Nearby Places**: Minaal gate no 2, ISRO, Sagar international school
+- **Amenities**: CC Internal roads, Covered campus with grand entrance gate, Lush green gardens with beautiful landscaping, High-tech security system with CCTV Cameras, Street Lighting in entire campus, Adequate Water supply, Clear drainage with underground sewer line, School, College, Bank, Hospital Etc. in close vicinity, Security Guards available, Loan facility available by all leading banks
+
+### Inoxe Garden - Premium Commercial Shops (11ft x 20ft)
+- **Description**: Premium commercial shops- size 11ftx20ft
+- **Price**: ₹3,200,000
+- **Area**: 231 sq.ft
+- **Floor**: 1
+- **Construction Year**: 2025
+- **Location**: Bhopal, Madhya Pradesh, India, Pincode: 462041
+- **Nearby Places**: Minaal gate no 2, ISRO, Sagar international school
+- **Amenities**: CC Internal roads, Covered campus with grand entrance gate, Lush green gardens with beautiful landscaping, High-tech security system with CCTV Cameras, Street Lighting in entire campus, Adequate Water supply, Clear drainage with underground sewer line, School, College, Bank, Hospital Etc. in close vicinity, Security Guards available, Loan facility available by all leading banks
+
+## Residential Duplexes
+### Inoxe Garden - Premium 3BHK Duplex (25ft x 40ft)
+- **Description**: Premium 3bhk duplexs on plot size of 25ftx40ft
+- **Price**: ₹7,200,000
+- **Area**: 1000 sq.ft
+- **Floor**: 2
+- **Bedrooms**: 4
+- **Bathrooms**: 2
+- **Construction Year**: 2025
+- **Location**: Bhopal, Madhya Pradesh, India, Pincode: 462041
+- **Nearby Places**: Minaal gate no 2, ISRO, Sagar international school
+- **Amenities**: CC Internal roads, Covered campus with grand entrance gate, Lush green gardens with beautiful landscaping, High-tech security system with CCTV Cameras, Street Lighting in entire campus, Adequate Water supply, Clear drainage with underground sewer line, School, College, Bank, Hospital Etc. in close vicinity, Security Guards available, Loan facility available by all leading banks
+
+### Inoxe Garden - Affordable 3BHK Duplex (20ft x 40ft)
+- **Description**: Affordable 3bhk duplexs on plot size of 20ftx40ft
+- **Price**: ₹5,800,000
+- **Area**: 800 sq.ft
+- **Floor**: 2
+- **Bedrooms**: 2
+- **Bathrooms**: 2
+- **Construction Year**: 2025
+- **Location**: Bhopal, Madhya Pradesh, India, Pincode: 462041
+- **Nearby Places**: Minaal gate no 2, ISRO, Sagar international school
+- **Amenities**: CC Internal roads, Covered campus with grand entrance gate, Lush green gardens with beautiful landscaping, High-tech security system with CCTV Cameras, Street Lighting in entire campus, Adequate Water supply, Clear drainage with underground sewer line, School, College, Bank, Hospital Etc. in close vicinity, Security Guards available, Loan facility available by all leading banks
+
+### Inoxe Garden - Affordable 2BHK Duplex (15ft x 38ft)
+- **Description**: Affordable 2bhk duplexs on plot size of 15ftx38ft
+- **Price**: ₹4,100,000
+- **Area**: 570 sq.ft
+- **Floor**: 2
+- **Bedrooms**: 2
+- **Bathrooms**: 2
+- **Construction Year**: 2025
+- **Location**: Bhopal, Madhya Pradesh, India, Pincode: 462041
+- **Nearby Places**: Minaal gate no 2, ISRO, Sagar international school
+- **Amenities**: CC Internal roads, Covered campus with grand entrance gate, Lush green gardens with beautiful landscaping, High-tech security system with CCTV Cameras, Street Lighting in entire campus, Adequate Water supply, Clear drainage with underground sewer line, School, College, Bank, Hospital Etc. in close vicinity, Security Guards available, Loan facility available by all leading banks
+
+### Inoxe Garden - Affordable 2BHK Duplex (15ft x 34ft)
+- **Description**: Affordable 2bhk duplexs on plot size of 15ftx34ft
+- **Price**: ₹3,600,000
+- **Area**: 510 sq.ft
+- **Floor**: 2
+- **Bedrooms**: 2
+- **Bathrooms**: 2
+- **Construction Year**: 2025
+- **Location**: Bhopal, Madhya Pradesh, India, Pincode: 462041
+- **Nearby Places**: Minaal gate no 2, ISRO, Sagar international school
+- **Amenities**: CC Internal roads, Covered campus with grand entrance gate, Lush green gardens with beautiful landscaping, High-tech security system with CCTV Cameras, Street Lighting in entire campus, Adequate Water supply, Clear drainage with underground sewer line, School, College, Bank, Hospital Etc. in close vicinity, Security Guards available, Loan facility available by all leading banks
+
+### Inoxe Garden - Affordable 2BHK Duplex (15ft x 30ft)
+- **Description**: Affordable 2bhk duplexs on plot size of 15ftx30ft
+- **Price**: ₹3,200,000
+- **Area**: 450 sq.ft
+- **Floor**: 2
+- **Bedrooms**: 2
+- **Bathrooms**: 2
+- **Construction Year**: 2025
+- **Location**: Bhopal, Madhya Pradesh, India, Pincode: 462041
+- **Nearby Places**: Minaal gate no 2, ISRO, Sagar international school
+- **Amenities**: CC Internal roads, Covered campus with grand entrance gate, Lush green gardens with beautiful landscaping, High-tech security system with CCTV Cameras, Street Lighting in entire campus, Adequate Water supply, Clear drainage with underground sewer line, School, College, Bank, Hospital Etc. in close vicinity, Security Guards available, Loan facility available by all leading banks
+
+### Inoxe Garden - Affordable 2BHK Duplex (15ft x 28ft)
+- **Description**: Affordable 2bhk duplexs on plot size of 15ftx28ft
+- **Price**: ₹2,900,000
+- **Area**: 420 sq.ft
+- **Floor**: 2
+- **Bedrooms**: 2
+- **Bathrooms**: 2
+- **Construction Year**: 2025
+- **Location**: Bhopal, Madhya Pradesh, India, Pincode: 462041
+- **Nearby Places**: Minaal gate no 2, ISRO, Sagar international school
+- **Amenities**: CC Internal roads, Covered campus with grand entrance gate, Lush green gardens with beautiful landscaping, High-tech security system with CCTV Cameras, Street Lighting in entire campus, Adequate Water supply, Clear drainage with underground sewer line, School, College, Bank, Hospital Etc. in close vicinity, Security Guards available, Loan facility available by all leading banks
+
+### Inoxe Hilltech - Premium 4BHK Duplex (20ft x 49ft)
+- **Description**: Premium 4bhk duplexes on a plot size of 20ftx49ft
+- **Price**: ₹6,000,000
+- **Area**: 980 sq.ft
+- **Floor**: 2
+- **Bedrooms**: 4
+- **Bathrooms**: 3
+- **Construction Year**: 2024
+- **Location**: New Jail Road, Madhya Pradesh, India, Pincode: 462041
+- **Nearby Places**: Aasaram tiraha, RGPV, New jail road, Masjid salar, Father agnel school
+- **Amenities**: CC Internal roads, Covered campus with grand entrance gate, Lush green gardens with beautiful landscaping, High-tech security system with CCTV Cameras, Street Lighting in entire campus, Adequate Water supply, Clear drainage with underground sewer line, School, College, Bank, Hospital, Security Guards available, Loan facility available by all leading banks
+
+### Inoxe Hilltech - Premium 4BHK Duplex (25ft x 39ft)
+- **Description**: Premium 4bhk duplexes on a plot size of 25ftx39ft
+- **Price**: ₹6,000,000
+- **Area**: 963 sq.ft
+- **Floor**: 2
+- **Bedrooms**: 4
+- **Bathrooms**: 3
+- **Construction Year**: 2024
+- **Location**: New Jail Road, Madhya Pradesh, India, Pincode: 462041
+- **Nearby Places**: Aasaram tiraha, RGPV, New jail road, Masjid salar, Father agnel school
+- **Amenities**: CC Internal roads, Covered campus with grand entrance gate, Lush green gardens with beautiful landscaping, High-tech security system with CCTV Cameras, Street Lighting in entire campus, Adequate Water supply, Clear drainage with underground sewer line, School, College, Bank, Hospital, Security Guards available, Loan facility available by all leading banks
+
+## Apartments
+### Inoxe Heritage - Premium 3BHK Luxurious Apartments
+- **Description**: Premium 3bhk Luxurious apartments
+- **Price**: ₹5,700,000
+- **Area**: 1100 sq.ft
+- **Floor**: 6
+- **Bedrooms**: 3
+- **Bathrooms**: 2
+- **Construction Year**: 2024
+- **Location**: Kohefiza, Bhopal, Madhya Pradesh, India, Pincode: 462001
+- **Nearby Places**: Kohe fiza masjid, VIP road
+- **Amenities**: Jaquar Bathroom Fittings, Branded elevator, High Tech Security and Surveillance System, Valet Parking Reserved Parking, 24x7 water supply, Anchor electrical wiring
+
+## Second Homes / Cottages
+### Nature's Nest Cottage - Premium 1BHK Tropical Style
+- **Description**: Premium 1bhk tropical style second homes with plunge pool
+- **Price**: ₹6,500,000
+- **Area**: 6525 sq.ft
+- **Floor**: 1
+- **Bedrooms**: 1
+- **Bathrooms**: 1
+- **Construction Year**: 2024
+- **Location**: Barkheda Bondar, Bhopal, Madhya Pradesh, India, Pincode: 462001
+- **Nearby Places**: Raja bhoj international airport, Holy family school, EME center, Raksha vihar, IISER, NIFT
+- **Amenities**: Plunge Pool, Landscaped Garden, Outdoor Sitting, Stone Coated Sloping Roof, Branded Sanitary Fittings
+
+### Nature's Nest Retreat Cottages - Premium 2BHK Spanish Style
+- **Description**: Premium 2bhk spanish style second homes with plunge pool
+- **Price**: ₹7,500,000
+- **Area**: 6500 sq.ft
+- **Floor**: 1
+- **Bedrooms**: 2
+- **Bathrooms**: 2
+- **Construction Year**: 2025
+- **Location**: Shahpur near Bhauri, Madhya Pradesh, India, Pincode: 462066
+- **Nearby Places**: IISER, SPA Bhopal, Police academy, Upcoming forensic institute
+- **Amenities**: Plunge Pool, Landscaped Garden, Outdoor Sitting, Stone Coated Sloping Roof, Branded Sanitary Fittings
+
+## Farmhouse Plots
+### Nature's Nest Retreat Plot - Farmhouse Plots at Bhauri
+- **Description**: Farmhouse plots at Bhauri
+- **Price**: ₹599 per sq.ft
+- **Area**: 6500 sq.ft
+- **Construction Year**: 2025
+- **Location**: Shahpur near Bhauri, Madhya Pradesh, India, Pincode: 462066
+- **Nearby Places**: MP police academy, SPA Bhopal, IISER, Upcoming forensic institute
+- **Amenities**: 30ft wide bitumen roads, water and electricity connections, secure covered campus with beautiful landscaping
